@@ -1,14 +1,14 @@
-package uz.boom.spring_boot.mapper;
+package uz.boom.citizens.mapper;
 
 import java.util.ArrayList;
 import java.util.List;
 import javax.annotation.processing.Generated;
 import org.springframework.stereotype.Component;
-import uz.boom.spring_boot.dto.organization.OrganizationCreateDto;
-import uz.boom.spring_boot.dto.organization.OrganizationDto;
-import uz.boom.spring_boot.dto.organization.OrganizationDto.OrganizationDtoBuilder;
-import uz.boom.spring_boot.dto.organization.OrganizationUpdateDto;
-import uz.boom.spring_boot.entity.organization.Organization;
+import uz.boom.citizens.dto.organization.OrganizationCreateDto;
+import uz.boom.citizens.dto.organization.OrganizationDto;
+import uz.boom.citizens.dto.organization.OrganizationDto.OrganizationDtoBuilder;
+import uz.boom.citizens.dto.organization.OrganizationUpdateDto;
+import uz.boom.citizens.entity.organization.Organization;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
