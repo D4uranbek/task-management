@@ -12,7 +12,7 @@ import uz.boom.citizens.entity.organization.Organization;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2022-02-16T18:25:49+0500",
+    date = "2022-02-22T11:25:09+0500",
     comments = "version: 1.4.2.Final, compiler: javac, environment: Java 17 (Oracle Corporation)"
 )
 @Component
